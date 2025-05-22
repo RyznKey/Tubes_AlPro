@@ -22,3 +22,6 @@ Penggunaan Fungsi: Fungsi terpisah untuk mengelola produk, transaksi, dan lapora
 Penggunaan Kondisional dan Looping: Untuk validasi stok, navigasi menu, dan iterasi data produk atau transaksi.
 
 Berbasis OOP atau Modular: Menggunakan class seperti Produk dan Transaksi, atau modularisasi file seperti produk.py, transaksi.py, dan main.py.
+
+
+![image](https://github.com/user-attachments/assets/5cc44db8-5ab9-436a-9870-4f91dab09e94)
